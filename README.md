@@ -1,6 +1,6 @@
 # The Challenge!!!!
 
-Resolve the challenge in the picture however we want to see the result in a web page.
+Resolve the challenge in the picture Challenge-1.png however we want to see the result in a web page.
 
 The Acceptance Criteria:
 
